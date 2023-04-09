@@ -1,5 +1,5 @@
 # penzinGoFinal
-кладем папку рядом с skillbox-diploma
+кладем папку рядом с skillbox-diploma (https://github.com/antondzhukov/skillbox-diploma)
 для запуска используем:
   1. cd ./penzin/
   2. go mod tidy
